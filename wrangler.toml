@@ -7,7 +7,7 @@ compatibility_date = "2025-10-06"
 # workers_dev = true
 
 # For custom domain — comment out if you don’t have a custom domain.
-route = "opensheet.elk.sh/*"
+route = "opensheet.arie.nz/*"
 
 # For analytics - comment if you don't want to set up a D1 database and collect analytics
 [[d1_databases]]
